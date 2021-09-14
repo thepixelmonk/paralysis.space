@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Frijole&display=swap");
+body {
+  background-color: white;
+  background-image: url(/images/hel.jpg);
+  color: white;
+  font-family: Frijole; }
+
+a {
+  color: rgba(0, 0, 0, 0.7); }
+  a:focus, a:hover {
+    color: rgba(0, 0, 0, 0.6); }
+
+#title {
+  font-size: 4em;
+  margin-top: 15px;
+  margin-left: 20px; }
